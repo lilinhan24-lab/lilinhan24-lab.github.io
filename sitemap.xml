@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.han.tax/posts/welcome-and-roadmap/</loc>
+    
+    <lastmod>2026-10-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.han.tax/posts/lm2596-ams1117-design/</loc>
     
     <lastmod>2026-09-19</lastmod>
@@ -20,25 +29,7 @@
   </url>
   
   <url>
-    <loc>https://www.han.tax/posts/welcome-and-roadmap/</loc>
-    
-    <lastmod>2026-09-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.han.tax/about/</loc>
-    
-    <lastmod>2026-09-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.han.tax/404</loc>
     
     <lastmod>2026-09-09</lastmod>
     
